@@ -110,7 +110,7 @@ export default function Home() {
                 <Grid container spacing={3}>
                     <Grid item xs={12} md={9}>
                         <Typography variant="body1" component="p"> 
-                        Welcome to expatriates.com! The free community web site created by expatriates and open to everyone for finding jobs, housing, and buying & selling. We invite you to place a free classified ad and browse classifieds ads in your city or country.
+                            Lorem ipsum dolor, sit amet consectetur adipisicing elit. Repellendus ex, dolore consequuntur corporis debitis vero dolor dolores. Perferendis, cum temporibus.
                         </Typography>
                     </Grid>
                     <Grid item xs={12} md={3}>
